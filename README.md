@@ -1,6 +1,6 @@
 # <span align="center" style="color: blue">Alexander Kapturov</span>
 ## <span align="center" style="color: yellow">Junior Machine Learning Engineer</span>
-### <span align="center" style="color: red">3x Kaggle Master (Notebooks, Discussions, Datasets)</span>
+### [<span align="center" style="color: red">3x Kaggle Master (Notebooks, Discussions, Datasets)</span>](https://www.kaggle.com/kapturovalexander)
 
 ### My curriculum vitae (CV)
 
