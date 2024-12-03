@@ -1,5 +1,5 @@
 # <span align="center" style="color: blue">Alexander Kapturov</span>
-## <span align="center" style="color: yellow">Junior Machine Learning Engineer</span>
+## [<span align="center" style="color: yellow">Junior Machine Learning Engineer</span>](http://uiip.bas-net.by/structure/l_rts/staff.php)
 ### [<span align="center" style="color: red">3x Kaggle Master (Notebooks, Discussions, Datasets)</span>](https://www.kaggle.com/kapturovalexander)
 
 ### My curriculum vitae (CV)
@@ -51,7 +51,7 @@
 - Machine Learning (Numpy, Pandas, Matplotlib, Scipy, Seaborn, Scikit-learn)
 - English B1
 
-### 📚 Every day learn something new.
+### 📚 Every day I learn something new.
 My Python projects: 
 - https://github.com/Ultraluxe25/B1-100_000-lines-100-files-random
 - https://github.com/Ultraluxe25/Innowise-Data-Engineering-Traineeship/tree/master/Task%203%20-%20Python%20Core
