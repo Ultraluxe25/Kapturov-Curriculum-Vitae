@@ -65,4 +65,4 @@ My Python projects:
 5) Wladston Ferreira Filho - "Computer Science Distilled"
 6) Jeff Sutherland - "Scrum: The Art of Doing Twice the Work in Half the Time" (04.07.2024)
 
-![](Kaggle_Contributor.png)
+![](Kaggle_Competition_Expert_(04.12.2024).png)
