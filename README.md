@@ -1,6 +1,6 @@
 # <span align="center" style="color: blue">Alexander Kapturov</span>
 ## [<span align="center" style="color: yellow">Junior Machine Learning Engineer</span>](http://uiip.bas-net.by/structure/l_rts/staff.php)
-### [<span align="center" style="color: red">3x Kaggle Master (Notebooks, Discussions, Datasets)</span>](https://www.kaggle.com/kapturovalexander)
+### [<span align="center" style="color: red">Kaggle Competitions Expert, 3x Master (Notebooks, Discussions, Datasets)</span>](https://www.kaggle.com/kapturovalexander)
 
 ### My curriculum vitae (CV)
 
