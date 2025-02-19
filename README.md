@@ -1,6 +1,6 @@
 # <span align="center" style="color: blue">Alexander Kapturov</span>
 ## [<span align="center" style="color: yellow">Junior Machine Learning Engineer</span>](http://uiip.bas-net.by/structure/l_rts/staff.php)
-### [<span align="center" style="color: red">Kaggle Competitions Expert, 3x Master (Notebooks, Discussions, Datasets)</span>](https://www.kaggle.com/kapturovalexander)
+### [<span align="center" style="color: red">Kaggle Discussions Grandmaster, Competitions Expert, 2x Master (Notebooks, Datasets)</span>](https://www.kaggle.com/kapturovalexander)
 
 ### My curriculum vitae (CV)
 
@@ -44,7 +44,8 @@
 - Deep Learning (Keras, PyTorch, TensorFlow)
 - Computer Vision (OpenCV, YOLOv8)
 - Basics of C, C++ and JavaScript
-- English B2
+- English B1
+
 ## 👨‍🎓 Bachelor of Economics (2019-2023) with strong knowledge in Mathematics and Statistics
 - Lineal Algebra, Calculus, Theory of Probability, Mathematical Statistics and other
 - Python Core (4 kyu at Code Wars, top 11%)
@@ -65,4 +66,4 @@ My Python projects:
 5) Wladston Ferreira Filho - "Computer Science Distilled"
 6) Jeff Sutherland - "Scrum: The Art of Doing Twice the Work in Half the Time" (04.07.2024)
 
-![](Kaggle_Competition_Expert_(04.12.2024).png)
+![](Kaggle%20Discussions%20Grandmaster%20(18.02.2024).png)
